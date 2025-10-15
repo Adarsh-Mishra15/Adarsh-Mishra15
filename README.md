@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh-mishra15&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh-mishra15" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Data Science**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 👀 I’m interested in **Machine Learning, Software Development, Data Science, Artificial Intelligence**
+- 👀 I’m interested in **Software Development, Machine Learning**
 
 - 📫 How to reach me **2019adarshmishra@gmail.com**
 
